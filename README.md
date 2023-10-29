@@ -1,0 +1,1 @@
+I developed this keylogger as a learning tool for others to examine and study. It is not intended for any other purpose besides educational use. If you encounter any difficulties or have any inquiries, please feel free to reach out to me via email at jckannas@gmail.com.

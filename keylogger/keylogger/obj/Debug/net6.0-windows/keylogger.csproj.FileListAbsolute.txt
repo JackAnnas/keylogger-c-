@@ -1,0 +1,15 @@
+D:\velvetauth\keylogger\keylogger\keylogger\keylogger\bin\Debug\net6.0-windows\keylogger.exe
+D:\velvetauth\keylogger\keylogger\keylogger\keylogger\bin\Debug\net6.0-windows\keylogger.deps.json
+D:\velvetauth\keylogger\keylogger\keylogger\keylogger\bin\Debug\net6.0-windows\keylogger.runtimeconfig.json
+D:\velvetauth\keylogger\keylogger\keylogger\keylogger\bin\Debug\net6.0-windows\keylogger.dll
+D:\velvetauth\keylogger\keylogger\keylogger\keylogger\bin\Debug\net6.0-windows\keylogger.pdb
+D:\velvetauth\keylogger\keylogger\keylogger\keylogger\obj\Debug\net6.0-windows\keylogger.csproj.ResolveComReference.cache
+D:\velvetauth\keylogger\keylogger\keylogger\keylogger\obj\Debug\net6.0-windows\keylogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\velvetauth\keylogger\keylogger\keylogger\keylogger\obj\Debug\net6.0-windows\keylogger.AssemblyInfoInputs.cache
+D:\velvetauth\keylogger\keylogger\keylogger\keylogger\obj\Debug\net6.0-windows\keylogger.AssemblyInfo.cs
+D:\velvetauth\keylogger\keylogger\keylogger\keylogger\obj\Debug\net6.0-windows\keylogger.csproj.CoreCompileInputs.cache
+D:\velvetauth\keylogger\keylogger\keylogger\keylogger\obj\Debug\net6.0-windows\keylogger.dll
+D:\velvetauth\keylogger\keylogger\keylogger\keylogger\obj\Debug\net6.0-windows\refint\keylogger.dll
+D:\velvetauth\keylogger\keylogger\keylogger\keylogger\obj\Debug\net6.0-windows\keylogger.pdb
+D:\velvetauth\keylogger\keylogger\keylogger\keylogger\obj\Debug\net6.0-windows\keylogger.genruntimeconfig.cache
+D:\velvetauth\keylogger\keylogger\keylogger\keylogger\obj\Debug\net6.0-windows\ref\keylogger.dll
